@@ -6,5 +6,5 @@ const navBarNav = document.querySelector
 
 document.querySelector
 ('#hamburger-menu') ,onclick=()={
-    navBarNav,classlisttoggle('active');
+    navBarNav,classlisttoggle('active')
 }
